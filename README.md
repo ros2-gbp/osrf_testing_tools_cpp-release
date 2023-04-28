@@ -1,3 +1,29 @@
+## osrf_testing_tools_cpp (rolling) - 1.7.0-1
+
+The packages in the `osrf_testing_tools_cpp` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling osrf_testing_tools_cpp` on `Fri, 28 Apr 2023 17:36:44 -0000`
+
+The `osrf_testing_tools_cpp` package was released.
+
+These packages were explicitly ignored:
+- `test_osrf_testing_tools_cpp`
+
+Version of package(s) in repository `osrf_testing_tools_cpp`:
+
+- upstream repository: https://github.com/osrf/osrf_testing_tools_cpp.git
+- release repository: https://github.com/ros2-gbp/osrf_testing_tools_cpp-release.git
+- rosdistro version: `1.5.3-1`
+- old version: `1.5.3-1`
+- new version: `1.7.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## osrf_testing_tools_cpp (rolling) - 1.5.3-1
 
 The packages in the `osrf_testing_tools_cpp` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling osrf_testing_tools_cpp` on `Tue, 11 Apr 2023 16:33:41 -0000`
