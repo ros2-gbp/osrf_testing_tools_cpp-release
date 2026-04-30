@@ -1,3 +1,29 @@
+## osrf_testing_tools_cpp (lyrical) - 2.3.1-1
+
+The packages in the `osrf_testing_tools_cpp` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --track lyrical --rosdistro lyrical osrf_testing_tools_cpp` on `Thu, 30 Apr 2026 17:48:52 -0000`
+
+The `osrf_testing_tools_cpp` package was released.
+
+These packages were explicitly ignored:
+- `test_osrf_testing_tools_cpp`
+
+Version of package(s) in repository `osrf_testing_tools_cpp`:
+
+- upstream repository: https://github.com/osrf/osrf_testing_tools_cpp.git
+- release repository: https://github.com/ros2-gbp/osrf_testing_tools_cpp-release.git
+- rosdistro version: `2.3.0-3`
+- old version: `2.3.0-3`
+- new version: `2.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.2`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## osrf_testing_tools_cpp (rolling) - 2.3.1-1
 
 The packages in the `osrf_testing_tools_cpp` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling osrf_testing_tools_cpp` on `Thu, 30 Apr 2026 17:47:24 -0000`
